@@ -51,12 +51,14 @@ GEM
       activesupport (>= 3)
       claide (~> 0.9.1)
       colored (~> 1.2)
+    xcpretty (0.1.11)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   cocoapods (= 0.38.2)
+  xcpretty (>= 0.1.11, < 1.0)
 
 BUNDLED WITH
    1.10.6
